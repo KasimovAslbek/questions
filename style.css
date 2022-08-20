@@ -1,0 +1,43 @@
+.savollar:nth-child(odd) {
+    background-color: lightblue;
+    margin:  20px 5%;
+    width: 90%;
+    padding: 15px;
+    justify-content: center;
+    border: 3px solid rgb(48, 45, 230);
+}
+
+.savollar:nth-child(even) {
+    background-color:#ccc;
+    margin:  20px 5%;
+    width: 90%;
+    padding: 15px;
+    justify-content: center;
+    border: 3px solid rgb(49, 41, 83);
+}
+
+.javob {
+    font-size: 24px;
+    line-height: 1.333em;
+    letter-spacing: -.018em;
+    margin-bottom: 16px;
+    font-weight: 500;
+    
+}
+
+.savollar {
+    font-size: 24px;
+    line-height: 1.333em;
+    letter-spacing: -.018em;
+    margin-bottom: 16px;
+    font-weight: 700;
+}
+
+.app-title {
+    text-align: center;
+}
+
+body {
+    background-color:mintcream;
+}
+
